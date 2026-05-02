@@ -15,4 +15,3 @@ This Power BI dashboard provides a comprehensive audit of sales performance for 
 
 ## How to View
 *   Download the `AdventureWorks_Report.pbix` file to explore the interactive dashboard in Power BI Desktop.
-*   *(Opcjonalnie: Jeśli masz screeny, wklej je tutaj!)*
