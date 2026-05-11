@@ -1,7 +1,9 @@
 # Adventure Works: Sales & Profitability Audit
 
 ## Project Overview
-This Power BI dashboard provides a comprehensive audit of sales performance for the fictional company **Adventure Works**. The project transforms raw data, sourced from Kaggle repository, into actionable insights focused on financial stability and operational efficiency.
+This Power BI dashboard provides a comprehensive audit of sales performance for the fictional company **Adventure Works**. The analysis covers data from **January 2020** to **June 2022**, transforming raw data from the Kaggle repository into actionable insights.
+
+The report is structured into three dedicated pages, each specifically designed to address a core business category: **Net Executive Performance, Pdroduct Quality Audit, and Customer Value**. This ensures a focused approach to operational efficiency and data-driven decision-making.
 
 <img width="1347" height="758" alt="image" src="https://github.com/user-attachments/assets/c5b1195b-dc93-41f9-b52d-560da236d4c2" />
 
@@ -9,7 +11,7 @@ This Power BI dashboard provides a comprehensive audit of sales performance for 
 ## Technical Skills Demonstrated
 *   **Data Transformation:** Cleaned and reshaped .csv data using Power Query.
 *   **Data Modeling:** Star Schema design with optimized table relationships.
-*   **DAX:** Created measures for YTD sales, Profit Margins, and Return Rates.
+*   **DAX:** Created measures for YTD sales, Profit Margins, Return Rates etc.
 
 ## How to View the Report
 *   Download the `Sales and Profitability.pbix` file to explore the interactive dashboard in Power BI Desktop.
@@ -20,17 +22,29 @@ This Power BI dashboard provides a comprehensive audit of sales performance for 
 
 **Question:** What is our true Net Profit after accounting for returns and inventory recovery?
 
+<img width="460" height="228" alt="image" src="https://github.com/user-attachments/assets/f5462a5e-b53f-4c14-a304-4a5d12b33083" />
+<br>
+<img width="647" height="252" alt="image" src="https://github.com/user-attachments/assets/42809ba3-984c-41fc-81b6-471d103e2155" />
+<br>
+
+*   **Exceptional Stability:** The company’s performance is exceptionally stable. The net profit margin has consistently remained above 40% throughout all analyzed years, demonstrating excellent cost control even during periods of rapid revenue growth.
+
 *   **Margin Protection:** Net Profit was stabilized by identifying and removing high-return/low-volume products that were causing operational losses.
   
 *   **Expansion Impact:** Adding new product categories significantly grew the customer base and increased total profit.
 
-*   **Actionable Insight:** Some items, like "Mountain-500" bike requires further review due to its high return rate.
+*   **Actionable Insight:** Some items, like "Mountain-500" bike, require further review due to its high return rate.
 
 ## 2. Quality Control & Regional Performance
 
 **Question:** Which categories drive return rates and how does this affect growth?
 
-*   **Product Risk:** High return rates in specific bike models are the primary drag on YoY growth. Expanding "one-product" categories (e.g., Hydration Packs, Bike Racks) is recommended to diversify risk.
+<img width="460" height="228" alt="image" src="https://github.com/user-attachments/assets/05a8f2a3-6504-49cd-b15a-2bf3e8f1f5cf" />
+<br>
+<img width="641" height="313" alt="image" src="https://github.com/user-attachments/assets/d37a9aab-857b-40db-9b81-5ef3f21de63d" />
+<br>
+
+*   **Product Risk:** High return rates in specific bike models are the primary drag on YoY growth, as they generate 13 times more profit than two other categories combined. Although return rate of bikes is decreasing from year to year. Other items that need further examination - **Shorts, Vests**. Expanding "one-product" categories (e.g., Hydration Packs, Bike Racks) is recommended to diversify risk. 
    
 *   **Canada (High Volume):** Customers buy often but spend less per order, mainly focusing on accessories.
 
