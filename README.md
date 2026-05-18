@@ -22,7 +22,8 @@ The report is structured into three dedicated pages, each specifically designed 
 
 **Question:** What is our true Net Profit after accounting for returns and inventory recovery?
 
-<img width="460" height="228" alt="image" src="https://github.com/user-attachments/assets/f5462a5e-b53f-4c14-a304-4a5d12b33083" />
+<img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/f18204e7-da19-4c6c-b7c8-d106b98dfcf1" />
+
 <br>
 <img width="647" height="252" alt="image" src="https://github.com/user-attachments/assets/42809ba3-984c-41fc-81b6-471d103e2155" />
 <br>
@@ -35,17 +36,34 @@ The report is structured into three dedicated pages, each specifically designed 
 
 *   **Actionable Insight:** Some items, like "Mountain-500" bike, require further review due to its high return rate.
 
-## 2. Quality Control & Regional Performance
+## 2. Quality Control
 
 **Question:** Which categories drive return rates and how does this affect growth?
 
-<img width="460" height="228" alt="image" src="https://github.com/user-attachments/assets/05a8f2a3-6504-49cd-b15a-2bf3e8f1f5cf" />
+<img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/02630759-b341-4f0c-b735-fef1749f6003" />
+
 <br>
 <img width="641" height="313" alt="image" src="https://github.com/user-attachments/assets/d37a9aab-857b-40db-9b81-5ef3f21de63d" />
 <br>
 
 *   **Product Risk:** High return rates in specific bike models are the primary drag on YoY growth, as they generate 13 times more profit than two other categories combined. Although return rate of bikes is decreasing from year to year. Other items that need further examination - **Shorts, Vests**. Expanding "one-product" categories (e.g., Hydration Packs, Bike Racks) is recommended to diversify risk. 
    
+
+## 3. Customer Retention & Regional Performance
+
+**Question:** How effective is our customer conversion and Revenue per Member?
+
+<img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/1727964d-fb55-46c2-8ced-4f75e46bedc2" />
+<br>
+
+<img width="648" height="242" alt="image" src="https://github.com/user-attachments/assets/9424e747-028c-4953-8b07-c52f9cdb42db" />
+
+<br>
+
+*   **The Retention Gap:** While acquisition is high, new growth is outpacing loyalty. This has caused the average Revenue per Member to drop as the database grows without repeat purchases.
+
+*   **Product Assortment Expansion:** Broadening the product catalog (introducing lower-priced items like accessories and clothing alongside high-ticket bikes) successfully tripled the customer base within a single month. While this shift toward lower-priced goods naturally drove down the *Revenue per Member*, the massive surge in transaction volume resulted in a substantial increase in overall profit.
+
 *   **Canada (High Volume):** Customers buy often but spend less per order, mainly focusing on accessories.
 
 *   **Strategy:** Focus on converting these loyal buyers into first-time bike owners.
@@ -56,13 +74,7 @@ The report is structured into three dedicated pages, each specifically designed 
 
 *   **Australia (Efficiency Model):** Australia is the most efficient market, producing high revenue with only half the customer base of the USA. This high-loyalty model should be the benchmark for other regions.
 
-## 3. Customer Retention & Growth
 
-**Question:** How effective is our customer conversion and Revenue per Member?
 
-*   **The Retention Gap:** While acquisition is high, new growth is outpacing loyalty. This has caused the average Revenue per Member to drop as the database grows without repeat purchases.
 
-*   **The 5% Rule:** Improving retention for our 18,000+ members by just 5% is more profitable than aggressive expansion into new markets.
-
-*  **Recommendation:** Launch a "Welcome Back" program and loyalty rewards to re-engage inactive members.
 
