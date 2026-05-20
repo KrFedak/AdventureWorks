@@ -4,17 +4,34 @@
 This Power BI dashboard provides a comprehensive audit of sales performance for the fictional company **Adventure Works**. The analysis covers data from **January 2020** to **June 2022**, transforming raw data from the Kaggle repository into actionable insights.
 
 The report is structured into three dedicated pages, each specifically designed to address a core business category: **Net Executive Performance, Pdroduct Quality Audit, and Customer Value**. This ensures a focused approach to operational efficiency and data-driven decision-making.
+ 
 
 <img width="1347" height="758" alt="image" src="https://github.com/user-attachments/assets/c5b1195b-dc93-41f9-b52d-560da236d4c2" />
+<br>
+<br>
+The first page of the report provides a high-level financial overview, highlighting net revenue calculations, monthly sales growth trends, and the distribution of revenue across different product categories.
+<br>
+<br>
+*Note: The monthly trend chart displays a sharp decline after June because the 2022 dataset concludes mid-year. When the "All" filter is selected, the first six months are artificially inflated by aggregating three years of data (2020–2022), while the remaining months only combine two (2020–2021). Applying a specific year filter corrects this statistical distortion and reveals the true, logical trend.*
+<br>
+<br>
+<img width="1347" height="758" alt="image" src="https://github.com/user-attachments/assets/bde10b56-7ad4-4a8c-8fcc-a1231bfdf417" />
+<br>
+<br>
+The second page of the report focuses on product returns, analyzing peak return periods, comparing return rate growth year-over-year, and quantifying the exact financial impact of these returns on overall revenue.
+<br>
+<br>
+<img width="1347" height="758" alt="image" src="https://github.com/user-attachments/assets/c59fb69e-c99e-4bfc-b3a4-fa092bd14ec1" />
+<br>
+<img width="300" height="338" alt="image" src="https://github.com/user-attachments/assets/6c48dab8-09b4-4ab7-bd88-f8644ecb29f2" />
+<br>
+<br>
+The third page of the report focuses on customer value analysis, segmenting the customer base across geographic markets and tracking spending trends based on gender and occupation. 
+<br>
+This section features an interactive, dynamic report-page tooltip (shown in the second image) that automatically filters and displays granular demographic insights—such as education level and income group—when hovering over a specific country or occupation group.
+<br>
+<br>
 
-
-## Technical Skills Demonstrated
-*   **Data Transformation:** Cleaned and reshaped .csv data using Power Query.
-*   **Data Modeling:** Star Schema design with optimized table relationships.
-*   **DAX:** Created measures for YTD sales, Profit Margins, Return Rates etc.
-
-## How to View the Report
-*   Download the `Sales and Profitability.pbix` file to explore the interactive dashboard in Power BI Desktop.
 
 # Executive Insights: Addressing Key Business Questions
 
@@ -75,6 +92,12 @@ The report is structured into three dedicated pages, each specifically designed 
 *   **Australia (Efficiency Model):** Australia is the most efficient market, producing high revenue with only half the customer base of the USA. This high-loyalty model should be the benchmark for other regions.
 
 
+## Technical Skills Demonstrated
+*   **Data Transformation:** Cleaned and reshaped .csv data using Power Query.
+*   **Data Modeling:** Star Schema design with optimized table relationships.
+*   **DAX:** Created measures for YTD sales, Profit Margins, Return Rates etc.
 
+## How to View the Report
+*   Download the `Sales and Profitability.pbix` file to explore the interactive dashboard in Power BI Desktop.
 
 
