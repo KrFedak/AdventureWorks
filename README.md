@@ -63,7 +63,9 @@ This section features an interactive, dynamic report-page tooltip (shown in the 
 <img width="641" height="313" alt="image" src="https://github.com/user-attachments/assets/d37a9aab-857b-40db-9b81-5ef3f21de63d" />
 <br>
 
-*   **Product Risk:** High return rates in specific bike models are the primary drag on YoY growth, as they generate 13 times more profit than two other categories combined. Although return rate of bikes is decreasing from year to year. Other items that need further examination - **Shorts, Vests**. Expanding "one-product" categories (e.g., Hydration Packs, Bike Racks) is recommended to diversify risk. 
+*   **High-Stakes Category Risk (Bikes):** Because the Bikes category generates 13 times more profit than Accessories and Clothing combined, its return volume has the most critical impact on overall growth. Fortunately, year-over-year data shows that the bike return rate is steadily decreasing.
+*   **Secondary Areas for Examination:** Within the clothing and accessories segments, items like Shorts and Vests show disproportionately high return rates and require a deeper quality or sizing audit.
+*   **Risk Diversification Recommendation:** To mitigate the heavy reliance on bike performance, expanding stable "one-product" subcategories—such as Hydration Packs and Bike Racks—is highly recommended to diversify the revenue risk.
    
 
 ## 3. Customer Retention & Regional Performance
@@ -81,15 +83,10 @@ This section features an interactive, dynamic report-page tooltip (shown in the 
 
 *   **Product Assortment Expansion:** Broadening the product catalog (introducing lower-priced items like accessories and clothing alongside high-ticket bikes) successfully tripled the customer base within a single month. While this shift toward lower-priced goods naturally drove down the *Revenue per Member*, the massive surge in transaction volume resulted in a substantial increase in overall profit.
 
-*   **Canada (High Volume):** Customers buy often but spend less per order, mainly focusing on accessories.
+*   **Canada (High Volume, Low AOV):** While transaction frequency is high, customers mostly purchase lower-priced accessories. The strategic focus should be on cross-selling to convert this high-volume pool into first-time bike buyers.
+*   **USA (Market Leader & Retention Risk):** Despite being the largest market by volume, the USA suffers from lower revenue per customer and elevated churn. Implementing an upselling campaign for premium bikes is recommended to boost regional ROI.
 
-*   **Strategy:** Focus on converting these loyal buyers into first-time bike owners.
-
-*   **USA (Market Leader):** This is the largest market, but it has low revenue per customer and high churn (customers leaving).
-
-*   **Strategy:** Use an Upselling Strategy for premium bikes to improve the regional ROI.
-
-*   **Australia (Efficiency Model):** Australia is the most efficient market, producing high revenue with only half the customer base of the USA. This high-loyalty model should be the benchmark for other regions.
+*   **Australia (High-Efficiency Model):** Australia represents the most efficient market, generating substantial revenue with only half the customer base of the USA. This high-loyalty, high-spend framework serves as the ideal operational benchmark for other regions.
 
 
 ## Technical Skills Demonstrated
