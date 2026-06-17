@@ -51,8 +51,6 @@ This section features an interactive, dynamic report-page tooltip (shown in the 
   
 *   **Expansion Impact:** Adding new product categories significantly grew the customer base and increased total profit.
 
-*   **Actionable Insight:** Some items, like "Mountain-500" bike, require further review due to its high return rate.
-
 ## 2. Quality Control
 
 **Question:** Which categories drive return rates and how does this affect growth?
@@ -66,6 +64,7 @@ This section features an interactive, dynamic report-page tooltip (shown in the 
 *   **High-Stakes Category Risk (Bikes):** Because the Bikes category generates 13 times more profit than Accessories and Clothing combined, its return volume has the most critical impact on overall growth. Fortunately, year-over-year data shows that the bike return rate is steadily decreasing.
 *   **Secondary Areas for Examination:** Within the clothing and accessories segments, items like Shorts and Vests show disproportionately high return rates and require a deeper quality or sizing audit.
 *   **Risk Diversification Recommendation:** To mitigate the heavy reliance on bike performance, expanding stable "one-product" subcategories—such as Hydration Packs and Bike Racks—is highly recommended to diversify the revenue risk.
+*   **Actionable Insight:** Some items, like "Mountain-500" bike, require further review due to its high return rate.
    
 
 ## 3. Customer Retention & Regional Performance
